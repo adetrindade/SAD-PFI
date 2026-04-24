@@ -8,7 +8,7 @@ O sistema foi concebido como uma ferramenta de apoio à tomada de decisão, perm
 
 Para utilizar a versão mais recente, siga os passos abaixo:
 
-1. Acesso a seção [**Releases**](https://github.com/adetrindade/SAD-PFI/releases/download/beta/SAD-PFI-v0.9-beta.1.zip) deste repositório.
+1. Acesso a seção [**Releases**](https://github.com/adetrindade/SAD-PFI/releases) deste repositório.
 2. Baixe o arquivo compactado mais recente.
 3. Extraia o conteúdo em uma pasta de sua preferencia.
 4. Instalar o .Net Runtime mais recente (No Windows 11 ao abrir o sistema caso não esteja instalado será solicitado a instalação automaticamente).
